@@ -6,8 +6,9 @@ Thanks for visiting!
 
 I have been an engineer for a year.
 I am an AWS engineer and I work in AWS operation and construction.
+I'm studying hard!
 
-## My skill 🍳
+## My skills 💪
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,github,html,css,js,figma,react&theme=light)](https://skillicons.dev)
 
 <!--
