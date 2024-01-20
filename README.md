@@ -8,10 +8,10 @@ I have been an engineer for a year.
 I am an AWS engineer and I work in AWS operation and construction.
 
 ## While studying
-[![My Skills](https://skillicons.dev/icons?i=linux,was,PHP,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws&theme=light)](https://skillicons.dev)
 
 ## I have experience using it.
-[![My Skills](https://skillicons.dev/icons?i=html,CSS,js,figma,react,docker,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,react,docker,git,github&theme=light)](https://skillicons.dev)
 
 <!--
 **yokoshun23/yokoshun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
