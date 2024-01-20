@@ -2,14 +2,14 @@
 
 Thanks for visiting!
 
-## About Me 🧑‍💻
+### About Me 🧑‍💻
 
 I have been an engineer for a year.
 I am an AWS engineer and I work in AWS operation and construction.
 I'm studying hard!
 
-## My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,docker,git,github,html,css,js,figma,react&theme=light)](https://skillicons.dev)
+### My skills 💪
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,vscode,docker,git,github,html,css,js,figma,react&theme=light)](https://skillicons.dev)
 
 <!--
 **yokoshun23/yokoshun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
