@@ -4,9 +4,9 @@ Thanks for visiting!
 
 ### About Me 🧑‍💻
 
-I have been an engineer for a year.
-I am an AWS engineer and I work in AWS operation and construction.
-I'm studying hard!
+I have been an engineer for a year. <br>
+I am an AWS engineer and I work in AWS operation and construction. <br>
+I'm studying hard! <br>
 
 ### My skills 💪
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,vscode,github,git,docker,html,css,js,figma,react&theme=light)](https://skillicons.dev)
