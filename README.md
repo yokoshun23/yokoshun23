@@ -9,7 +9,7 @@ I am an AWS engineer and I work in AWS operation and construction. <br>
 I'm studying hard! <br>
 
 ### My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,js,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,terraform,swift)](https://skillicons.dev)
 
 <!--
 **yokoshun23/yokoshun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
