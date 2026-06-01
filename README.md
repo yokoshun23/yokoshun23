@@ -1,27 +1,51 @@
-### Hi there 👋
+### みなさん、こんにちは！ 👋
+yokoshun23のプロフィールをご覧いただきありがとうございます。
 
-Thanks for visiting!
+---
 
-### About Me 🧑‍💻
+### 🧑‍💻 概要 (Summary)
+AWSクラウドインフラおよびLinux/ミドルウェアの設計・構築・運用を中心に、4年間従事しているインフラエンジニアです。
+直近では、Terraformを用いたIaC（Infrastructure as Code）化や、GitHub Actionsを活用したCI/CDパイプラインの構築など、運用の自動化・効率化に注力しています。
 
-I have been an engineer for a year. <br>
-I am an AWS engineer and I work in AWS operation and construction. <br>
-I'm studying hard! <br>
+「ただ動く環境を作る」だけでなく、運用コスト・セキュリティ・保守性のバランスを意識したアーキテクチャ設計を心がけています。
 
-### My skills 💪
+---
+
+### 💪 技術スタック (Skills)
 [![My Skills](https://skillicons.dev/icons?i=linux,git,aws,terraform,githubactions)](https://skillicons.dev)
 
-<!--
-**yokoshun23/yokoshun23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **AWS:** VPC, EC2, RDS, S3, IAM等の基本サービスを用いたインフラ設計・構築。CloudWatch等を用いた監視設計。
+* **OS / ミドルウェア:** Linux (RHEL系/Ubuntu) の初期セットアップ、パフォーマンスチューニング。Apache, Nginx等のWebサーバー構築・運用。
+* **IaC / CI-CD:** TerraformによるAWSリソースのコード管理（モジュール化の意識）、GitHub Actionsによるデプロイ自動化。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 職務経歴・プロジェクト実績 (Experience)
+※守秘義務に反しない範囲で、規模感や「自分がどう改善したか」を記載します。
+
+* **AWS環境の設計・構築および移行プロジェクト**
+  * **概要:** オンプレミス環境からAWSへの移行、または新規システムインフラの構築。
+  * **担当:** 要件定義に基づいたAWSリソースの選定、ネットワーク（VPC）設計、構築。
+  * **実績・工夫:** 一部リソースの構築をTerraformで共通コンポーネント化し、環境構築に要する時間を従来比で約30%削減。
+
+* **インフラ運用保守の自動化・改善**
+  * **概要:** 既存のAWS環境における運用負荷の軽減。
+  * **担当:** 手動で行われていた設定変更やデプロイ作業の自動化。
+  * **実績・工夫:** GitHub Actionsを導入し、ステージング環境へのデプロイを自動化。手作業によるオペレーションミスをゼロにしました。
+
+---
+
+### 📝 技術検証・手動構築ナレッジ (Technical Notes)
+ブラックボックスをなくすため、手動でのミドルウェア構築やトラブルシューティングの記録をMarkdownでドキュメント化しています。
+（4年目の視点として、レガシー環境の調査や「あえて手動で行う理由」を言語化しています）
+
+* [Apache 2.4 Webサーバー構築・セキュリティ要塞化手順書](./runbooks/apache-setup.md)
+  * 単なるインストールに留まらず、KeepAliveの最適化、不要モジュールの無効化、SSL/TLS（Let's Encrypt）のセキュアな暗号化スイート選定など、本番運用を想定したチューニング内容をまとめています。
+* [Linuxトラブルシューティング・ログ調査ナレッジ](./runbooks/linux-troubleshooting.md)
+  * CPU高負荷時やディスクフル時の原因究明プロセス、調査コマンドの備忘録。
+
+---
+
+### 🌱 今後の展望 / 興味のある技術 (Interests)
+* コンテナインフラ（Docker / ECS / EKS）を用いた、よりスケーラブルな基盤構築
+* AWSにおけるコスト最適化（FinOps）への取り組み
